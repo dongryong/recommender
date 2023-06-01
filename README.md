@@ -41,3 +41,11 @@ code .
 - [Install Redis on Windows](https://www.codingforentrepreneurs.com/blog/redis-on-windows/)
 - [Install Redis on macOS](https://www.codingforentrepreneurs.com/blog/install-redis-mac-and-linux)
 - [Celery + Redis + Django Setup Guide](https://www.codingforentrepreneurs.com/blog/celery-redis-django/)
+
+
+-- this is mine -- 
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/dongryong/recommender.git
+git push -u origin main
